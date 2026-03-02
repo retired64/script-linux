@@ -1,0 +1,224 @@
+{
+  "games": [
+    {
+      "id": "ps1_crash_bandicoot",
+      "title": "Crash Bandicoot",
+      "description": "Versión demostrativa para PS1.",
+      "coverImageUrl": "assets/images/roms/PS1/chashwrath.webp",
+      "platforms": ["ps1"],
+      "downloadUrl": "#",
+      "fileSize": "324.2 MB",
+      "addedDate": "2026-02-25T00:00:00Z",
+      "tags": ["plataformas", "ps1", "clásico"]
+    },
+    {
+      "id": "ps2_crash_bandicoot",
+      "title": "Crash Bandicoot",
+      "description": "Versión demostrativa para PS2.",
+      "coverImageUrl": "assets/images/roms/PS2/chashwrath.webp",
+      "platforms": ["ps2"],
+      "downloadUrl": "#",
+      "fileSize": "324.2 MB",
+      "addedDate": "2026-02-25T00:00:00Z",
+      "tags": ["plataformas", "ps2"]
+    },
+    {
+      "id": "ps3_crash_bandicoot",
+      "title": "Crash Bandicoot",
+      "description": "Versión demostrativa para PS3.",
+      "coverImageUrl": "https://cdn.jsdelivr.net/gh/retired64/script-linux@main/chashwrath.webp",
+      "platforms": ["ps3"],
+      "downloadUrl": "#",
+      "fileSize": "324.2 MB",
+      "addedDate": "2026-02-25T00:00:00Z",
+      "tags": ["plataformas", "ps3"]
+    },
+    {
+      "id": "ps4_crash_bandicoot",
+      "title": "Crash Bandicoot",
+      "description": "Versión demostrativa para PS4.",
+      "coverImageUrl": "assets/images/roms/PS4/chashwrath.webp",
+      "platforms": ["ps4"],
+      "downloadUrl": "#",
+      "fileSize": "324.2 MB",
+      "addedDate": "2026-02-25T00:00:00Z",
+      "tags": ["plataformas", "ps4"]
+    },
+    {
+      "id": "n64_crash_bandicoot",
+      "title": "Crash Bandicoot",
+      "description": "Versión demostrativa para N64.",
+      "coverImageUrl": "assets/images/roms/N64/chashwrath.webp",
+      "platforms": ["n64"],
+      "downloadUrl": "#",
+      "fileSize": "324.2 MB",
+      "addedDate": "2026-02-25T00:00:00Z",
+      "tags": ["plataformas", "n64"]
+    },
+    {
+      "id": "snes_crash_bandicoot",
+      "title": "Crash Bandicoot",
+      "description": "Versión demostrativa para SNES.",
+      "coverImageUrl": "assets/images/roms/SNES/chashwrath.webp",
+      "platforms": ["snes"],
+      "downloadUrl": "#",
+      "fileSize": "324.2 MB",
+      "addedDate": "2026-02-25T00:00:00Z",
+      "tags": ["plataformas", "snes"]
+    },
+    {
+      "id": "genesis_crash_bandicoot",
+      "title": "Crash Bandicoot",
+      "description": "Versión demostrativa para GENESIS.",
+      "coverImageUrl": "assets/images/roms/GENESIS/chashwrath.webp",
+      "platforms": ["genesis"],
+      "downloadUrl": "#",
+      "fileSize": "324.2 MB",
+      "addedDate": "2026-02-25T00:00:00Z",
+      "tags": ["plataformas", "genesis"]
+    },
+    {
+      "id": "megadrive_crash_bandicoot",
+      "title": "Crash Bandicoot",
+      "description": "Versión demostrativa para MEGADRIVE.",
+      "coverImageUrl": "assets/images/roms/MEGADRIVE/chashwrath.webp",
+      "platforms": ["megadrive"],
+      "downloadUrl": "#",
+      "fileSize": "324.2 MB",
+      "addedDate": "2026-02-25T00:00:00Z",
+      "tags": ["plataformas", "megadrive"]
+    },
+    {
+      "id": "sega_cd_crash_bandicoot",
+      "title": "Crash Bandicoot",
+      "description": "Versión demostrativa para SEGA CD.",
+      "coverImageUrl": "assets/images/roms/SEGA_CD/chashwrath.webp",
+      "platforms": ["sega_cd"],
+      "downloadUrl": "#",
+      "fileSize": "324.2 MB",
+      "addedDate": "2026-02-25T00:00:00Z",
+      "tags": ["plataformas", "sega_cd"]
+    },
+    {
+      "id": "sega_saturn_crash_bandicoot",
+      "title": "Crash Bandicoot",
+      "description": "Versión demostrativa para SEGA SATURN.",
+      "coverImageUrl": "assets/images/roms/SEGA_SATURN/chashwrath.webp",
+      "platforms": ["sega_saturn"],
+      "downloadUrl": "#",
+      "fileSize": "324.2 MB",
+      "addedDate": "2026-02-25T00:00:00Z",
+      "tags": ["plataformas", "sega_saturn"]
+    },
+    {
+      "id": "arcade_crash_bandicoot",
+      "title": "Crash Bandicoot",
+      "description": "Versión demostrativa para ARCADE.",
+      "coverImageUrl": "assets/images/roms/ARCADE/chashwrath.webp",
+      "platforms": ["arcade"],
+      "downloadUrl": "#",
+      "fileSize": "324.2 MB",
+      "addedDate": "2026-02-25T00:00:00Z",
+      "tags": ["plataformas", "arcade"]
+    },
+    {
+      "id": "pc_crash_bandicoot",
+      "title": "Crash Bandicoot",
+      "description": "Versión demostrativa para PC.",
+      "coverImageUrl": "assets/images/roms/PC/chashwrath.webp",
+      "platforms": ["pc"],
+      "downloadUrl": "#",
+      "fileSize": "324.2 MB",
+      "addedDate": "2026-02-25T00:00:00Z",
+      "tags": ["plataformas", "pc"]
+    },
+    {
+      "id": "psp_crash_bandicoot",
+      "title": "Crash Bandicoot",
+      "description": "Versión demostrativa para PSP.",
+      "coverImageUrl": "assets/images/roms/PSP/chashwrath.webp",
+      "platforms": ["psp"],
+      "downloadUrl": "#",
+      "fileSize": "324.2 MB",
+      "addedDate": "2026-02-25T00:00:00Z",
+      "tags": ["plataformas", "psp"]
+    },
+    {
+      "id": "psvita_crash_bandicoot",
+      "title": "Crash Bandicoot",
+      "description": "Versión demostrativa para PSVITA.",
+      "coverImageUrl": "assets/images/roms/PSVITA/chashwrath.webp",
+      "platforms": ["psvita"],
+      "downloadUrl": "#",
+      "fileSize": "324.2 MB",
+      "addedDate": "2026-02-25T00:00:00Z",
+      "tags": ["plataformas", "psvita"]
+    },
+    {
+      "id": "3ds_crash_bandicoot",
+      "title": "Crash Bandicoot",
+      "description": "Versión demostrativa para 3DS.",
+      "coverImageUrl": "assets/images/roms/3DS/chashwrath.webp",
+      "platforms": ["3ds"],
+      "downloadUrl": "#",
+      "fileSize": "324.2 MB",
+      "addedDate": "2026-02-25T00:00:00Z",
+      "tags": ["plataformas", "3ds"]
+    },
+    {
+      "id": "wii_crash_bandicoot",
+      "title": "Crash Bandicoot",
+      "description": "Versión demostrativa para WII.",
+      "coverImageUrl": "assets/images/roms/WII/chashwrath.webp",
+      "platforms": ["wii"],
+      "downloadUrl": "#",
+      "fileSize": "324.2 MB",
+      "addedDate": "2026-02-25T00:00:00Z",
+      "tags": ["plataformas", "wii"]
+    },
+    {
+      "id": "wiiu_crash_bandicoot",
+      "title": "Crash Bandicoot",
+      "description": "Versión demostrativa para WIIU.",
+      "coverImageUrl": "assets/images/roms/WIIU/chashwrath.webp",
+      "platforms": ["wiiu"],
+      "downloadUrl": "#",
+      "fileSize": "324.2 MB",
+      "addedDate": "2026-02-25T00:00:00Z",
+      "tags": ["plataformas", "wiiu"]
+    },
+    {
+      "id": "switch_crash_bandicoot",
+      "title": "Crash Bandicoot",
+      "description": "Versión demostrativa para SWITCH.",
+      "coverImageUrl": "assets/images/roms/SWITCH/chashwrath.webp",
+      "platforms": ["switch"],
+      "downloadUrl": "#",
+      "fileSize": "324.2 MB",
+      "addedDate": "2026-02-25T00:00:00Z",
+      "tags": ["plataformas", "switch"]
+    },
+    {
+      "id": "xbox_crash_bandicoot",
+      "title": "Crash Bandicoot",
+      "description": "Versión demostrativa para XBOX.",
+      "coverImageUrl": "assets/images/roms/XBOX/chashwrath.webp",
+      "platforms": ["xbox"],
+      "downloadUrl": "#",
+      "fileSize": "324.2 MB",
+      "addedDate": "2026-02-25T00:00:00Z",
+      "tags": ["plataformas", "xbox"]
+    },
+    {
+      "id": "xbox360_crash_bandicoot",
+      "title": "Crash Bandicoot",
+      "description": "Versión demostrativa para XBOX 360.",
+      "coverImageUrl": "assets/images/roms/XBOX_360/chashwrath.webp",
+      "platforms": ["xbox_360"],
+      "downloadUrl": "#",
+      "fileSize": "324.2 MB",
+      "addedDate": "2026-02-25T00:00:00Z",
+      "tags": ["plataformas", "xbox_360"]
+    }
+  ]
+}
